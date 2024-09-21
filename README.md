@@ -5,7 +5,7 @@ Progress: 4/6 courses completed
 This repository contains almost all the solutions for [Data Structures and Algorithms Specialization](https://www.coursera.org/specializations/data-structures-algorithms). All program assignments can be found inside the course weeks directory.
 
 Skills Gained:
-`Algorithms` `Data Structure` `Debugging` `Software Testing` `Binary Search Tree` `Computer Programming`
+`Algorithms` `Data Structure` `Mathematics` `Computer Programming Tools` `Computer Programming` `Theoretical Computer Science` `Graph Theory` `Computational Thinking`
 
 
 # [Course 1. Algorithmic Toolbox](/Algorithmic_toolbox/)
